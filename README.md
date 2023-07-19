@@ -1,2 +1,2 @@
 # ds labs
-coursera labs
+labs
