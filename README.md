@@ -1,2 +1,2 @@
-# labs
+# ds labs
 coursera labs
